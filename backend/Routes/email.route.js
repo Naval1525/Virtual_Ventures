@@ -3,7 +3,7 @@ import { storeEmail}  from '../Controllers/email.Controller.js'; // Path to emai
 
 const router = express.Router();
 
-// Route to store email
+
 router.post('/store', storeEmail);
 
 export default router;
