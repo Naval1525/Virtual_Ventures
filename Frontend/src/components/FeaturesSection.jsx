@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { BookOpen, LineChart, Shield, Target, ChartBar, TrendingUp, GraduationCap, Users, ArrowRight } from 'lucide-react';
 
+
 const FEATURES_DATA = {
   main: [
     {
